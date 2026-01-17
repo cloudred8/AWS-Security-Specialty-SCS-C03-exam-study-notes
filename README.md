@@ -16,6 +16,8 @@
 6. [Domain 6: Security Foundations & Governance (14%)](#domain-6-security-foundations--governance)
 7. [⚡ SCS-C03 New Topics (GenAI/OCSF)](#-scs-c03-new-topics)
 8. [📝 Quick Cheat Sheets](#-quick-cheat-sheets)
+9. [1100 Real exam like questions (Skillcertpro)]([#-scs-c03-new-topics](https://skillcertpro.com/product/aws-certified-security-specialty-scs-c02-exam-questions/))
+https://skillcertpro.com/product/aws-certified-security-specialty-scs-c02-exam-questions/
 
 ---
 
